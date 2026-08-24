@@ -59,5 +59,41 @@ Maximum Expenses
 
 
 ### Financial Dashboard
-Financial Dashboard<img width="1407" height="557" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/52941734-c1fd-4999-a305-60d1da875f6e" />
+<img width="1407" height="557" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/52941734-c1fd-4999-a305-60d1da875f6e" />
 
+## Key Insights
+
+1. Rent is the highest expense category, followed by Office Supplies.
+2. Subscriptions generate the highest revenue among the three product offerings.
+3. Revenue across Subscription, Licensing and Product Sales is relatively close, indicating that the business is not heavily dependent on one revenue stream.
+4. IT generates the highest departmental revenue.
+5. Finance records the highest departmental expenses.
+6. June is the strongest month based on both revenue and profit.
+7. March records the lowest monthly profit and therefore warrants further investigation.
+8. December has the highest monthly expense.
+
+## Strategic Recommendations
+
+Based on the dashboard analysis, the following actions are recommended:
+1. Review Major Operating Costs
+Management should investigate opportunities to reduce major recurring costs, particularly rent, office supplies and utilities. Where commercially viable, the organisation could assess lower-cost premises or alternative property arrangements.
+2. Strengthen Subscription Revenue
+Subscriptions are currently the strongest revenue category. Management should explore ways to increase customer acquisition, retention, renewals and upselling within the subscription offering.
+3. Review Departmental Cost Efficiency
+Finance has the highest departmental expenses. Management should review the cost structure and identify opportunities to improve the relationship between departmental spending and revenue generation.
+4. Investigate March Performance
+The lower profit recorded in March should be analysed to determine whether it was driven by reduced revenue, increased expenses, or both. This can help identify corrective actions for future periods.
+5. Leverage Strong Revenue Periods
+June recorded the highest revenue and profit. Management should identify the factors contributing to June's performance and assess whether successful activities can be replicated in other months.
+6. Monitor Expenses Continuously
+A regular financial dashboard review can help management identify cost increases early, reduce wasteful expenditure and protect profit margins.
+
+## Conclusion
+The Financial Dashboard provides leadership with a consolidated view of the company's financial performance.
+The analysis shows that:
+1. Subscriptions are the highest-revenue product offering and represent an important growth opportunity.
+2. Rent, Office Supplies and Utilities are the major expense categories and should be closely monitored.
+3. IT generates the highest departmental revenue, while Finance has the highest departmental expenses.
+4. June represents the strongest month for revenue and profit.
+5. March requires further investigation due to its comparatively low profit.
+6. Ongoing monitoring of revenue, expenses and departmental performance can support improved profitability and more informed management decisions.
