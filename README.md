@@ -21,3 +21,15 @@ Payment Method
 Approval Status
 Responsible Person
 
+## Business Questions
+
+The dashboard was designed to answer the following questions:
+1. What is the total revenue?
+2. What are the total expenses?
+3. What is the total profit?
+4. What are the maximum revenue and expense values?
+5. Which department generates the highest revenue?
+6. Which department has the highest expenses?
+7. What is the month-on-month profit trend?
+8. Which product offering generates the highest revenue?
+9. What makes up the company's expenses?
