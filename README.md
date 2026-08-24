@@ -54,5 +54,8 @@ Total Revenue
 Total Expenses
 Profit
 Maximum Revenue
+### Financial Dashboard
+Financial Dashboard<img width="1407" height="557" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/52941734-c1fd-4999-a305-60d1da875f6e" />
+
 Maximum Expenses
-6. Build the interactive financial dashboard.
+7. Build the interactive financial dashboard.
