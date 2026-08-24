@@ -33,3 +33,26 @@ The dashboard was designed to answer the following questions:
 7. What is the month-on-month profit trend?
 8. Which product offering generates the highest revenue?
 9. What makes up the company's expenses?
+
+## Dashboard Development Process
+Dashboard Development Process
+
+The project followed these key steps:
+1. Connect and prepare the transaction data using Power Query/Data Model.
+2. Create measures for:
+Revenue
+Expenses
+Profit & Loss
+3. Create Pivot Tables for the required analysis.
+4. Develop supporting visualisations for:
+Profit by Month
+Expense by Category
+Revenue by Category
+Revenue vs Expense by Department
+5. Create KPI cards for:
+Total Revenue
+Total Expenses
+Profit
+Maximum Revenue
+Maximum Expenses
+6. Build the interactive financial dashboard.
