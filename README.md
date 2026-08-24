@@ -5,4 +5,6 @@ A B2B SaaS company provided transactional data to support the development of an 
 The dashboard focuses on revenue, expenses, profitability, departmental performance, monthly trends, product offerings, and expense composition.
 ##
 Dataset Used
-Finance Dashboard.xlsx
+[Financial Data](https://github.com/ShingaiMhene/Financial-Dashboard/blob/main/Finance%20Dashboard.xlsx)
+
+
